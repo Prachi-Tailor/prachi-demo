@@ -1,2 +1,3 @@
 # prachi-demo
-this is my first git repositpry
+this is my first git repository.
+author- Prachi Tailor
